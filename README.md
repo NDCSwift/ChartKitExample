@@ -1,1 +1,46 @@
-IyDwn5OKIFN3aWZ0IENoYXJ0cyBFeGFtcGxlCkEgaGFuZHMtb24gU3dpZnRVSSBwcm9qZWN0IGRlbW9uc3RyYXRpbmcgQXBwbGUncyBuYXRpdmUgQ2hhcnRzIGZyYW1ld29yayBmb3IgYnVpbGRpbmcgYmVhdXRpZnVsIGRhdGEgdmlzdWFsaXphdGlvbnMuCgotLS0KCiMjIPCfpJQgV2hhdCB0aGlzIGlzClRoaXMgcHJvamVjdCBzaG93cyBob3cgdG8gdXNlIFN3aWZ0IENoYXJ0cyB0byByZW5kZXIgYmFyIGNoYXJ0cywgbGluZSBjaGFydHMsIGFuZCBvdGhlciB2aXN1YWxpemF0aW9ucyBkaXJlY3RseSBpbiBTd2lmdFVJLiBJdCBjb3ZlcnMgaG93IHRvIGJpbmQgeW91ciBkYXRhIG1vZGVsIHRvIGNoYXJ0IHZpZXdzIGFuZCBjdXN0b21pemUgdGhlaXIgYXBwZWFyYW5jZS4gQSBwcmFjdGljYWwgcmVmZXJlbmNlIGZvciBhbnkgYXBwIHRoYXQgbmVlZHMgdG8gZGlzcGxheSBkYXRhIGluIGFuIGVuZ2FnaW5nIHdheS4KCiMjIOKchSBXaHkgeW91J2QgdXNlIGl0Ci0gKipTd2lmdCBDaGFydHMgaW50ZWdyYXRpb24qKiDigJQgU2hvd3MgaG93IHRvIHVzZSBBcHBsZSdzIGZpcnN0LXBhcnR5IGNoYXJ0aW5nIGZyYW1ld29yayB3aXRoIHJlYWwgU3dpZnRVSSBkYXRhIG1vZGVscwotICoqTXVsdGlwbGUgY2hhcnQgdHlwZXMqKiDigJQgRGVtb25zdHJhdGVzIGJhciwgbGluZSwgYW5kIGFyZWEgY2hhcnRzIHdpdGggbWluaW1hbCBib2lsZXJwbGF0ZQotICoqQ3VzdG9taXphdGlvbiBwYXR0ZXJucyoqIOKAlCBDb3ZlcnMgY29sb3JzLCBheGVzLCBsZWdlbmRzLCBhbmQgY2hhcnQgbWFya3MKCiMjIPCfk7ogV2F0Y2ggb24gWW91VHViZQpbIVtXYXRjaCBvbiBZb3VUdWJlXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1lvdVR1YmUtV2F0Y2glMjB0aGUlMjBUdXRvcmlhbC1yZWQ/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXlvdXR1YmUpXShodHRwczovL3lvdXR1LmJlL256OVNPb2w5Y3p3KQoKPiBUaGlzIHByb2plY3Qgd2FzIGJ1aWx0IGZvciB0aGUgW05vYWhEb2VzQ29kaW5nIFlvdVR1YmUgY2hhbm5lbF0oaHR0cHM6Ly93d3cueW91dHViZS5jb20vQE5vYWhEb2VzQ29kaW5nOTcpLgoKLS0tCgojIyDwn5qAIEdldHRpbmcgU3RhcnRlZAoKIyMjIDEuIENsb25lIHRoZSBSZXBvCmBgYGJhc2gKZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9ORENTd2lmdC9DaGFydEtpdEV4YW1wbGUuZ2l0CmNkIENoYXJ0S2l0RXhhbXBsZQpgYGAKCiMjIyAyLiBPcGVuIGluIFhjb2RlCkRvdWJsZS1jbGljayBgQ2hhcnRLaXRFeGFtcGxlLnhjb2RlcHJvamAuCgojIyMgMy4gU2V0IFlvdXIgRGV2ZWxvcG1lbnQgVGVhbQpJbiBYY29kZTogKipUQVJHRVQg4oaSIFNpZ25pbmcgJiBDYXBhYmlsaXRpZXMg4oaSIFRlYW0qKiDigJQgc2VsZWN0IHlvdXIgdGVhbS4KCiMjIyA0LiBVcGRhdGUgdGhlIEJ1bmRsZSBJZGVudGlmaWVyCkNoYW5nZSBgY29tLmV4YW1wbGUuTXlBcHBgIHRvIGEgdW5pcXVlIHJldmVyc2UtZG9tYWluIElELgoKIyMg8J+boO+4jyBOb3RlcwotIFN3aWZ0IENoYXJ0cyBpcyBhdmFpbGFibGUgb24gaU9TIDE2Ky4KLSBObyB0aGlyZC1wYXJ0eSBkZXBlbmRlbmNpZXMgcmVxdWlyZWQuCgojIyDwn5OmIFJlcXVpcmVtZW50cwotIFhjb2RlIDE1KwotIGlPUyAxNisKCvCfk7ogW1dhdGNoIHRoZSBndWlkZSBvbiBZb3VUdWJlXShodHRwczovL3lvdXR1LmJlL256OVNPb2w5Y3p3KQo=
+# 📊 Swift Charts Example
+A hands-on SwiftUI project demonstrating Apple's native Charts framework for building beautiful data visualizations.
+
+---
+
+## 🤔 What this is
+This project shows how to use Swift Charts to render bar charts, line charts, and other visualizations directly in SwiftUI. It covers how to bind your data model to chart views and customize their appearance. A practical reference for any app that needs to display data in an engaging way.
+
+## ✅ Why you'd use it
+- **Swift Charts integration** — Shows how to use Apple's first-party charting framework with real SwiftUI data models
+- **Multiple chart types** — Demonstrates bar, line, and area charts with minimal boilerplate
+- **Customization patterns** — Covers colors, axes, legends, and chart marks
+
+## 📺 Watch on YouTube
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/nz9SOol9czw)
+
+> This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97).
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repo
+```bash
+git clone https://github.com/NDCSwift/ChartKitExample.git
+cd ChartKitExample
+```
+
+### 2. Open in Xcode
+Double-click `ChartKitExample.xcodeproj`.
+
+### 3. Set Your Development Team
+In Xcode: **TARGET → Signing & Capabilities → Team** — select your team.
+
+### 4. Update the Bundle Identifier
+Change `com.example.MyApp` to a unique reverse-domain ID.
+
+## 🛠️ Notes
+- Swift Charts is available on iOS 16+.
+- No third-party dependencies required.
+
+## 📦 Requirements
+- Xcode 15+
+- iOS 16+
+
+📺 [Watch the guide on YouTube](https://youtu.be/nz9SOol9czw)
